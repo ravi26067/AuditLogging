@@ -173,6 +173,8 @@ The audit logging system is designed to track all operations performed by users 
 
 ### Architectural Diagram
 
+<img width="779" alt="image" src="https://github.com/ravi26067/AuditLogging/assets/17096338/15584390-52bd-4a9a-8b63-cdd6ca0e447d">
+
 
 ## Technology Stack
 - **Kafka**: For event streaming.
